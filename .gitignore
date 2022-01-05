@@ -1,5 +1,6 @@
 # Specific files in this project
 /screenshots
+TODO.txt
 
 # Numerous always-ignore extensions
 *.diff
