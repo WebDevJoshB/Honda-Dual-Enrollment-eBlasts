@@ -3,7 +3,6 @@ _This repo and README is a work in progress, more details to come._
 
 Template Links: [Week 1][src1] | [Week 2][src2] | [Week 3][src3] | [Week 4][src4] <br/>
 
-<br/>
 
 **Table of Contents**
 1. [Intro](#user-content-intro)
@@ -30,6 +29,9 @@ These weekly B2B emails were sent over the course of four weeks to participating
 
 ## Features
 More details to come that talk about features and techniques used in email production.
+
+### Fonts
+Font stack/family details. More details to come.
 
 ### Responsive Images
 _This content is a work in progress_
