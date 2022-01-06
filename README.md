@@ -14,9 +14,9 @@ Template Links: [Week 1][src1] | [Week 2][src2] | [Week 3][src3] | [Week 4][src4
       - [Program Timeline](#user-content-program-timeline)
 4. [Challenges and Solutions](#user-content-challenges-and-solutions)
 5. [Responsive Layouts](#user-content-responsive-layouts)
-    - [Screenshots](#user-content-screenshots)
-    - [DevTools](#user-content-devtools)
-    - [Browser Resizing](#user-content-browser-resizing)
+    - [Screenshots](#user-content-1-screenshots)
+    - [DevTools](#user-content-2-devtools)
+    - [Browser Resizing](#user-content-3-browser-resizing)
 
 
 ## Intro
