@@ -1,7 +1,9 @@
 # Honda Dual Enrollment eBlasts
 _This repo and README is a work in progress, more details to come._
 
-Template Links: [Week 1][src1] | [Week 2][src2] | [Week 3][src3] | [Week 4][src4] <br/>
+**Template Links:** [Week 1][src1] | [Week 2][src2] | [Week 3][src3] | [Week 4][src4] 
+
+<br/>
 
 
 **Table of Contents**
